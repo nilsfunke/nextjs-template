@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-weights-light: 300;
+  --font-weights-regular: 400;
+  --font-weights-medium: 500;
+  --font-weights-semibold: 600;
+  --font-weights-bold: 700;
+
+  --font-sizes-1: 0.625rem;
+  --font-sizes-2: 0.75rem;
+  --font-sizes-3: 0.875rem;
+  --font-sizes-4: 1rem;
+  --font-sizes-5: 1.125rem;
+  --font-sizes-6: 1.25rem;
+  --font-sizes-7: 1.5rem;
+  --font-sizes-8: 1.75rem;
+  --font-sizes-9: 2rem;
+  --font-sizes-10: 2.5rem;
+  --font-sizes-11: 3rem;
+  --font-sizes-12: 3.5rem;
+  --font-sizes-13: 4rem;
+
+  --line-heights-1: 0.75rem;
+  --line-heights-2: 1rem;
+  --line-heights-3: 1.25rem;
+  --line-heights-4: 1.5rem;
+  --line-heights-5: 1.75rem;
+  --line-heights-6: 1.75rem;
+  --line-heights-7: 2rem;
+  --line-heights-8: 2.5rem;
+  --line-heights-9: 3rem;
+  --line-heights-10: 3.5rem;
+  --line-heights-11: 4rem;
+  --line-heights-12: 4.5rem;
+  --line-heights-13: 5rem;
+
+  --space-0: 0px;
+  --space-0-5: 0.125rem;
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
+  --space-7: 1.75rem;
+  --space-8: 2rem;
+  --space-9: 2.25rem;
+  --space-10: 2.5rem;
+  --space-11: 2.75rem;
+  --space-12: 3rem;
+  --space-13: 3.25rem;
+  --space-14: 3.5rem;
+  --space-15: 3.75rem;
+  --space-16: 4rem;
+}
